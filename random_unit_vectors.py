@@ -1,6 +1,6 @@
-def is_odd(k):
+def random_unit_vectors(num_vectors, dim):
     """
-    Return True if k is odd, otherwise return False.
+    Replace the code below with your own implementation.
     """
     ### Replace with your own code (begin) ###
     pass
