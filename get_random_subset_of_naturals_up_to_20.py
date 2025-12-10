@@ -1,5 +1,3 @@
-import numpy as np
-from numpy import random
 
 def get_random_subset_of_naturals_up_to_20():
     """
