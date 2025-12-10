@@ -34,5 +34,5 @@ M = np.random.randn(num_vectors, dim)
 
 b)normalizes each row so it has Euclidean norm 1,
 
-c)and returns the resulting matrix as a NumPy array.
+and c)returns the resulting matrix as a NumPy array.
 
